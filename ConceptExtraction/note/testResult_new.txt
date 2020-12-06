@@ -1,0 +1,328 @@
+------------TEST------------
+  2017-08-17 12:35
+  The Result of Mapping(linking) the Extracted Concepts to their Wikipedia page(URL) 
+  The Number of Documents and Topics: 46 and 5 respectively
+----------------------------
+
+
+Document 1
+	 acceleration > https://en.wikipedia.org/wiki/Acceleration
+	 velocity > https://en.wikipedia.org/wiki/Velocity
+	 displacement > https://en.wikipedia.org/wiki/Displacement_(vector)
+	 motion > https://en.wikipedia.org/wiki/Motion_(physics)
+	 light > https://en.wikipedia.org/wiki/Light
+
+Document 2
+	 derivative > https://en.wikipedia.org/wiki/Derivative
+	 velocity > https://en.wikipedia.org/wiki/Velocity
+	 calculus > https://en.wikipedia.org/wiki/Calculus
+	 acceleration > https://en.wikipedia.org/wiki/Acceleration
+	 power > https://en.wikipedia.org/wiki/Power_(physics)
+
+Document 3
+	 integral > https://en.wikipedia.org/wiki/Integral
+	 derivative > https://en.wikipedia.org/wiki/Derivative
+	 acceleration > https://en.wikipedia.org/wiki/Acceleration
+	 velocity > https://en.wikipedia.org/wiki/Velocity
+	 displacement > https://en.wikipedia.org/wiki/Displacement_(vector)
+
+Document 4
+	 vector > https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)
+	 machine > https://en.wikipedia.org/wiki/Machine
+	 velocity > https://en.wikipedia.org/wiki/Velocity
+	 dimension > https://en.wikipedia.org/wiki/Dimension
+	 motion > https://en.wikipedia.org/wiki/Motion_(physics)
+
+Document 5
+	 force > https://en.wikipedia.org/wiki/Force
+	 gravity > https://en.wikipedia.org/wiki/Gravity
+	 acceleration > https://en.wikipedia.org/wiki/Acceleration
+	 mass > https://en.wikipedia.org/wiki/Mass
+	 inertia > https://en.wikipedia.org/wiki/Inertia
+
+Document 6
+	 force > https://en.wikipedia.org/wiki/Force
+	 gravity > https://en.wikipedia.org/wiki/Gravity
+	 acceleration > https://en.wikipedia.org/wiki/Acceleration
+	 trigonometry > https://en.wikipedia.org/wiki/Trigonometry
+	 sound > https://en.wikipedia.org/wiki/Sound
+
+Document 7
+	 circle > https://en.wikipedia.org/wiki/Circle
+	 acceleration > https://en.wikipedia.org/wiki/Acceleration
+	 motion > https://en.wikipedia.org/wiki/Motion_(physics)
+	 speed > https://en.wikipedia.org/wiki/Speed#Average_speed
+	 velocity > https://en.wikipedia.org/wiki/Velocity
+
+Document 8
+	 acceleration > https://en.wikipedia.org/wiki/Acceleration
+	 gravity > https://en.wikipedia.org/wiki/Gravity
+	 mass > https://en.wikipedia.org/wiki/Mass
+	 force > https://en.wikipedia.org/wiki/Force
+	 ground > https://en.wikipedia.org/wiki/Ground_(electricity)
+
+Document 9
+	 energy > https://en.wikipedia.org/wiki/Energy
+	 pendulum > https://en.wikipedia.org/wiki/Pendulum
+	 work > https://en.wikipedia.org/wiki/Work_(thermodynamics)
+	 force > https://en.wikipedia.org/wiki/Force
+	 distance > https://en.wikipedia.org/wiki/Distance
+
+Document 10
+	 momentum > https://en.wikipedia.org/wiki/Momentum#Conservation
+	 mass > https://en.wikipedia.org/wiki/Mass
+	 pendulum > https://en.wikipedia.org/wiki/Pendulum
+	 velocity > https://en.wikipedia.org/wiki/Velocity
+	 energy > https://en.wikipedia.org/wiki/Energy
+
+Document 11
+	 velocity > https://en.wikipedia.org/wiki/Velocity
+	 motion > https://en.wikipedia.org/wiki/Motion_(physics)
+	 circle > https://en.wikipedia.org/wiki/Circle
+	 acceleration > https://en.wikipedia.org/wiki/Acceleration
+	 frequency > https://en.wikipedia.org/wiki/Frequency
+
+Document 12
+	 inertia > https://en.wikipedia.org/wiki/Inertia
+	 torque > https://en.wikipedia.org/wiki/Torque
+	 mass > https://en.wikipedia.org/wiki/Mass
+	 energy > https://en.wikipedia.org/wiki/Energy
+	 momentum > https://en.wikipedia.org/wiki/Momentum#Conservation
+
+Document 13
+	 stress > https://en.wikipedia.org/wiki/Stress_(mechanics)
+	 torque > https://en.wikipedia.org/wiki/Torque
+	 force > https://en.wikipedia.org/wiki/Force
+	 statics > https://en.wikipedia.org/wiki/Statics
+	 length > https://en.wikipedia.org/wiki/Length
+
+Document 14
+	 pressure > https://en.wikipedia.org/wiki/Pressure
+	 fluid > https://en.wikipedia.org/wiki/Fluid
+	 density > https://en.wikipedia.org/wiki/Density
+	 volume > https://en.wikipedia.org/wiki/Volume_(thermodynamics)
+	 force > https://en.wikipedia.org/wiki/Force
+
+Document 15
+	 fluid > https://en.wikipedia.org/wiki/Fluid
+	 density > https://en.wikipedia.org/wiki/Density
+	 pressure > https://en.wikipedia.org/wiki/Pressure
+	 viscosity > https://en.wikipedia.org/wiki/Viscosity
+	 volume > https://en.wikipedia.org/wiki/Volume_(thermodynamics)
+
+Document 16
+	 amplitude > https://en.wikipedia.org/wiki/Amplitude
+	 motion > https://en.wikipedia.org/wiki/Motion_(physics)
+	 energy > https://en.wikipedia.org/wiki/Energy
+	 frequency > https://en.wikipedia.org/wiki/Frequency
+	 velocity > https://en.wikipedia.org/wiki/Velocity
+
+Document 17
+	 wave > https://en.wikipedia.org/wiki/Wave
+	 pulse > https://en.wikipedia.org/wiki/Pulse_(physics)
+	 amplitude > https://en.wikipedia.org/wiki/Amplitude
+	 crest > https://en.wikipedia.org/wiki/Crest_(physics)
+	 sound > https://en.wikipedia.org/wiki/Sound
+
+Document 18
+	 sound > https://en.wikipedia.org/wiki/Sound
+	 wave > https://en.wikipedia.org/wiki/Wave
+	 watt > https://en.wikipedia.org/wiki/Watt
+	 pressure > https://en.wikipedia.org/wiki/Pressure
+	 decibel > https://en.wikipedia.org/wiki/Decibel
+
+Document 19
+	 wave > https://en.wikipedia.org/wiki/Wave
+	 wavelength > https://en.wikipedia.org/wiki/Wavelength
+	 frequency > https://en.wikipedia.org/wiki/Frequency
+	 sound > https://en.wikipedia.org/wiki/Sound
+	 length > https://en.wikipedia.org/wiki/Length
+
+Document 20
+	 temperature > https://en.wikipedia.org/wiki/Temperature
+	 volume > https://en.wikipedia.org/wiki/Volume_(thermodynamics)
+	 pressure > https://en.wikipedia.org/wiki/Pressure
+	 kelvin > https://en.wikipedia.org/wiki/Kelvin
+	 length > https://en.wikipedia.org/wiki/Length
+
+Document 21
+	 temperature > https://en.wikipedia.org/wiki/Temperature
+	 liquid > https://en.wikipedia.org/wiki/Liquid
+	 pressure > https://en.wikipedia.org/wiki/Pressure
+	 kelvin > https://en.wikipedia.org/wiki/Kelvin
+	 speed > https://en.wikipedia.org/wiki/Speed#Average_speed
+
+Document 22
+	 heat > https://en.wikipedia.org/wiki/Heat
+	 temperature > https://en.wikipedia.org/wiki/Temperature
+	 convection > https://en.wikipedia.org/wiki/Convection
+	 phase > https://en.wikipedia.org/wiki/Phase_(waves)
+	 radiation > https://en.wikipedia.org/wiki/Radiation
+
+Document 23
+	 entropy > https://en.wikipedia.org/wiki/Entropy
+	 heat > https://en.wikipedia.org/wiki/Heat
+	 thermodynamics > https://en.wikipedia.org/wiki/Thermodynamics
+	 volume > https://en.wikipedia.org/wiki/Volume_(thermodynamics)
+	 temperature > https://en.wikipedia.org/wiki/Temperature
+
+Document 24
+	 engine > https://en.wikipedia.org/wiki/Engine
+	 heat > https://en.wikipedia.org/wiki/Heat
+	 temperature > https://en.wikipedia.org/wiki/Temperature
+	 work > https://en.wikipedia.org/wiki/Work_(thermodynamics)
+	 volume > https://en.wikipedia.org/wiki/Volume_(thermodynamics)
+
+Document 25
+	 coulomb > https://en.wikipedia.org/wiki/Coulomb
+	 electron > https://en.wikipedia.org/wiki/Electron
+	 atom > https://en.wikipedia.org/wiki/Atom
+	 force > https://en.wikipedia.org/wiki/Force
+	 electricity > https://en.wikipedia.org/wiki/Electricity
+
+Document 26
+	 coulomb > https://en.wikipedia.org/wiki/Coulomb
+	 force > https://en.wikipedia.org/wiki/Force
+	 density > https://en.wikipedia.org/wiki/Density
+	 point > https://en.wikipedia.org/wiki/Point_(geometry)
+	 electromagnetism > https://en.wikipedia.org/wiki/Electromagnetism
+
+Document 27
+	 capacitor > https://en.wikipedia.org/wiki/Capacitor
+	 capacitance > https://en.wikipedia.org/wiki/Capacitance
+	 voltage > https://en.wikipedia.org/wiki/Voltage
+	 energy > https://en.wikipedia.org/wiki/Energy
+	 dielectric > https://en.wikipedia.org/wiki/Dielectric
+
+Document 28
+	 voltage > https://en.wikipedia.org/wiki/Voltage
+	 ohm > https://en.wikipedia.org/wiki/Ohm
+	 battery > https://en.wikipedia.org/wiki/Battery_(electricity)
+	 power > https://en.wikipedia.org/wiki/Power_(physics)
+	 light > https://en.wikipedia.org/wiki/Light
+
+Document 29
+	 voltage > https://en.wikipedia.org/wiki/Voltage
+	 battery > https://en.wikipedia.org/wiki/Battery_(electricity)
+	 ohm > https://en.wikipedia.org/wiki/Ohm
+	 resistor > https://en.wikipedia.org/wiki/Resistor
+	 light > https://en.wikipedia.org/wiki/Light
+
+Document 30
+	 resistor > https://en.wikipedia.org/wiki/Resistor
+	 ohm > https://en.wikipedia.org/wiki/Ohm
+	 voltage > https://en.wikipedia.org/wiki/Voltage
+	 voltmeter > https://en.wikipedia.org/wiki/Voltmeter
+	 ammeter > https://en.wikipedia.org/wiki/Ammeter
+
+Document 31
+	 voltage > https://en.wikipedia.org/wiki/Voltage
+	 capacitor > https://en.wikipedia.org/wiki/Capacitor
+	 capacitance > https://en.wikipedia.org/wiki/Capacitance
+	 battery > https://en.wikipedia.org/wiki/Battery_(electricity)
+	 resistor > https://en.wikipedia.org/wiki/Resistor
+
+Document 32
+	 force > https://en.wikipedia.org/wiki/Force
+	 radiation > https://en.wikipedia.org/wiki/Radiation
+	 vector > https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)
+	 magnetism > https://en.wikipedia.org/wiki/Magnetism
+	 tesla > https://en.wikipedia.org/wiki/Tesla_(unit)
+
+Document 33
+	 circle > https://en.wikipedia.org/wiki/Circle
+	 integral > https://en.wikipedia.org/wiki/Integral
+	 ampere > https://en.wikipedia.org/wiki/Ampere
+	 torque > https://en.wikipedia.org/wiki/Torque
+	 force > https://en.wikipedia.org/wiki/Force
+
+Document 34
+	 flux > https://en.wikipedia.org/wiki/Flux
+	 electromagnet > https://en.wikipedia.org/wiki/Electromagnet
+	 length > https://en.wikipedia.org/wiki/Length
+	 drag > https://en.wikipedia.org/wiki/Drag_(physics)
+	 magnetism > https://en.wikipedia.org/wiki/Magnetism
+
+Document 35
+	 voltage > https://en.wikipedia.org/wiki/Voltage
+	 transformer > https://en.wikipedia.org/wiki/Transformer
+	 electricity > https://en.wikipedia.org/wiki/Electricity
+	 inductance > https://en.wikipedia.org/wiki/Inductance
+	 flux > https://en.wikipedia.org/wiki/Flux
+
+Document 36
+	 voltage > https://en.wikipedia.org/wiki/Voltage
+	 inductor > https://en.wikipedia.org/wiki/Inductor
+	 inductance > https://en.wikipedia.org/wiki/Inductance
+	 flux > https://en.wikipedia.org/wiki/Flux
+	 battery > https://en.wikipedia.org/wiki/Battery_(electricity)
+
+Document 37
+	 flux > https://en.wikipedia.org/wiki/Flux
+	 wave > https://en.wikipedia.org/wiki/Wave
+	 permittivity > https://en.wikipedia.org/wiki/Permittivity
+	 density > https://en.wikipedia.org/wiki/Density
+	 energy > https://en.wikipedia.org/wiki/Energy
+
+Document 38
+	 refraction > https://en.wikipedia.org/wiki/Refraction
+	 light > https://en.wikipedia.org/wiki/Light
+	 reflection > https://en.wikipedia.org/wiki/Reflection_(physics)
+	 length > https://en.wikipedia.org/wiki/Length
+	 distance > https://en.wikipedia.org/wiki/Distance
+
+Document 39
+	 wave > https://en.wikipedia.org/wiki/Wave
+	 light > https://en.wikipedia.org/wiki/Light
+	 diffraction > https://en.wikipedia.org/wiki/Diffraction
+	 interference > https://en.wikipedia.org/wiki/Interference_(wave_propagation)
+	 wavelength > https://en.wikipedia.org/wiki/Wavelength
+
+Document 40
+	 light > https://en.wikipedia.org/wiki/Light
+	 interference > https://en.wikipedia.org/wiki/Interference_(wave_propagation)
+	 wave > https://en.wikipedia.org/wiki/Wave
+	 diffraction > https://en.wikipedia.org/wiki/Diffraction
+	 phase > https://en.wikipedia.org/wiki/Phase_(waves)
+
+Document 41
+	 light > https://en.wikipedia.org/wiki/Light
+	 focus > https://en.wikipedia.org/wiki/Focus_(optics)
+	 diffraction > https://en.wikipedia.org/wiki/Diffraction
+	 wave > https://en.wikipedia.org/wiki/Wave
+	 length > https://en.wikipedia.org/wiki/Length
+
+Document 42
+	 light > https://en.wikipedia.org/wiki/Light
+	 speed > https://en.wikipedia.org/wiki/Speed#Average_speed
+	 length > https://en.wikipedia.org/wiki/Length
+	 spacetime > https://en.wikipedia.org/wiki/Spacetime
+	 distance > https://en.wikipedia.org/wiki/Distance
+
+Document 43
+	 light > https://en.wikipedia.org/wiki/Light
+	 photon > https://en.wikipedia.org/wiki/Photon
+	 wave > https://en.wikipedia.org/wiki/Wave
+	 energy > https://en.wikipedia.org/wiki/Energy
+	 frequency > https://en.wikipedia.org/wiki/Frequency
+
+Document 44
+	 electron > https://en.wikipedia.org/wiki/Electron
+	 quantum > https://en.wikipedia.org/wiki/Quantum
+	 probability > https://en.wikipedia.org/wiki/Probability
+	 momentum > https://en.wikipedia.org/wiki/Momentum#Conservation
+	 wavelength > https://en.wikipedia.org/wiki/Wavelength
+
+Document 45
+	 mass > https://en.wikipedia.org/wiki/Mass
+	 atom > https://en.wikipedia.org/wiki/Atom
+	 energy > https://en.wikipedia.org/wiki/Energy
+	 proton > https://en.wikipedia.org/wiki/Proton
+	 electron > https://en.wikipedia.org/wiki/Electron
+
+Document 46
+	 universe > https://en.wikipedia.org/wiki/Universe
+	 radiation > https://en.wikipedia.org/wiki/Radiation
+	 light > https://en.wikipedia.org/wiki/Light
+	 redshift > https://en.wikipedia.org/wiki/Redshift
+	 plasma > https://en.wikipedia.org/wiki/Plasma_(physics)
