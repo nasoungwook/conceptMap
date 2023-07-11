@@ -32,10 +32,10 @@
 ![][7]
 
 
-[1]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드2.PNG
-[2]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드3.PNG
-[3]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드4.PNG
-[4]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드5.PNG
-[5]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드6.PNG
-[6]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드7.PNG
-[7]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드8.PNG
+[1]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B32.PNG
+[2]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B33.PNG
+[3]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B34.PNG
+[4]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B35.PNG
+[5]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B36.PNG
+[6]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B37.PNG
+[7]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B38.PNG
