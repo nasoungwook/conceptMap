@@ -1,5 +1,5 @@
 # ConceptMap
-![proto.png](https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/note/proto.png)
+![proto.png](https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/proto.png)
 ## How to create a Concept Map
 **1. Concept Extraction**
 - Extract Concepts from Video Subtitles of the Educational Youtube channel "Crash Course" (for Physics)
