@@ -2,15 +2,15 @@
 ![][1]
 
 ## Description (Details)
-**1. Preprocessing & Concept Extraction**: [Link to Concept Extraction](https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/conceptExtraction.py)
+**1. Preprocessing & Concept Extraction**: [Link to Concept Extraction](https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/conceptExtraction.py)
 
-**2. Categorization(Clustering)**: [Link to Clustering](https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/clustering.py)
+**2. Categorization(Clustering)**: [Link to Clustering](https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/clustering.py)
 
 **3. Recommendation(& Wikipedia Mapping; linking concept to its wiki-page)**
-- [Link to Recommendation](https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/recommendation.py)
-- [Link to Wikipedia Mapping](https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/conceptMapping.py)
+- [Link to Recommendation](https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/recommendation.py)
+- [Link to Wikipedia Mapping](https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/conceptMapping.py)
 
-**Test**: [Link to Test](https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/test.py)
+**Test**: [Link to Test](https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/test.py)
 - Requirements
 ```
  NLTK 3.2.4
@@ -32,10 +32,10 @@
 ![][7]
 
 
-[1]:https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/note/slide/슬라이드2.PNG
-[2]:https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/note/slide/슬라이드3.PNG
-[3]:https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/note/slide/슬라이드4.PNG
-[4]:https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/note/slide/슬라이드5.PNG
-[5]:https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/note/slide/슬라이드6.PNG
-[6]:https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/note/slide/슬라이드7.PNG
-[7]:https://github.com/nasoungwook/conceptMap/blob/master/ConceptExtraction/note/slide/슬라이드8.PNG
+[1]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드2.PNG
+[2]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드3.PNG
+[3]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드4.PNG
+[4]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드5.PNG
+[5]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드6.PNG
+[6]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드7.PNG
+[7]:https://github.com/nasoungwook/conceptMap/blob/main/ConceptExtraction/note/slide/슬라이드8.PNG
